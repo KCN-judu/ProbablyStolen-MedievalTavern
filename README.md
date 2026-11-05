@@ -37,4 +37,6 @@ The set of hats, clothes and marks in `tools/overlay/parts` is drawn entirely fr
 
 ## Licence
 
-Code and the pictures drawn from code: Apache License 2.0 (`LICENSE`). The edited customer and passer-by pictures are derived from the game's art, made with the publisher's permission; they stay the game's property and are not covered by the licence.
+- **Code** (the scripts under `tools/`, the data files): Apache License 2.0, see `LICENSE`.
+- **Assets** (the pictures in `Textures/`, the overlay parts, the sheets and the preview): [Medieval Tavern Assets License](LICENSE-ASSETS.md). You may use them, make derivative works and redistribute those, but you may not redistribute the assets themselves.
+- The customer and passer-by pictures are the game's own art edited here with the publisher's permission; the licence covers only the edits.
