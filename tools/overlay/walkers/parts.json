@@ -1,0 +1,1274 @@
+{
+ "units": "a standing figure is ~110 units; head 15x17; x forward, y up from the anchor",
+ "classes": {
+  "mid": {
+   "scale": 1.0,
+   "cell": [
+    130,
+    180
+   ]
+  },
+  "far": {
+   "scale": 0.25,
+   "cell": [
+    32,
+    45
+   ]
+  },
+  "big": {
+   "scale": 2.0,
+   "cell": [
+    143,
+    273
+   ]
+  }
+ },
+ "parts": {
+  "wide_brim": {
+   "anchor": "head",
+   "layer": "front",
+   "note": "felt hat with a wide brim",
+   "files": {
+    "mid": {
+     "file": "png/wide_brim.mid.png",
+     "phases": 1,
+     "anchors": [
+      [
+       18,
+       15
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/wide_brim.far.png",
+     "phases": 1,
+     "anchors": [
+      [
+       5,
+       3
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/wide_brim.big.png",
+     "phases": 1,
+     "anchors": [
+      [
+       36,
+       30
+      ]
+     ]
+    }
+   }
+  },
+  "floppy_cap": {
+   "anchor": "head",
+   "layer": "front",
+   "note": "coif and floppy cap",
+   "files": {
+    "mid": {
+     "file": "png/floppy_cap.mid.png",
+     "phases": 4,
+     "anchors": [
+      [
+       15,
+       14
+      ],
+      [
+       43,
+       14
+      ],
+      [
+       71,
+       14
+      ],
+      [
+       100,
+       14
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/floppy_cap.far.png",
+     "phases": 4,
+     "anchors": [
+      [
+       4,
+       4
+      ],
+      [
+       12,
+       4
+      ],
+      [
+       20,
+       4
+      ],
+      [
+       28,
+       4
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/floppy_cap.big.png",
+     "phases": 4,
+     "anchors": [
+      [
+       30,
+       28
+      ],
+      [
+       82,
+       28
+      ],
+      [
+       135,
+       28
+      ],
+      [
+       189,
+       28
+      ]
+     ]
+    }
+   }
+  },
+  "tricorne": {
+   "anchor": "head",
+   "layer": "front",
+   "note": "three-cornered hat",
+   "files": {
+    "mid": {
+     "file": "png/tricorne.mid.png",
+     "phases": 1,
+     "anchors": [
+      [
+       14,
+       15
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/tricorne.far.png",
+     "phases": 1,
+     "anchors": [
+      [
+       4,
+       4
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/tricorne.big.png",
+     "phases": 1,
+     "anchors": [
+      [
+       28,
+       29
+      ]
+     ]
+    }
+   }
+  },
+  "pointed_hat": {
+   "anchor": "head",
+   "layer": "front",
+   "note": "tall bent pointed hat",
+   "files": {
+    "mid": {
+     "file": "png/pointed_hat.mid.png",
+     "phases": 4,
+     "anchors": [
+      [
+       17,
+       31
+      ],
+      [
+       54,
+       31
+      ],
+      [
+       91,
+       31
+      ],
+      [
+       129,
+       30
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/pointed_hat.far.png",
+     "phases": 4,
+     "anchors": [
+      [
+       4,
+       7
+      ],
+      [
+       14,
+       7
+      ],
+      [
+       24,
+       7
+      ],
+      [
+       34,
+       7
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/pointed_hat.big.png",
+     "phases": 4,
+     "anchors": [
+      [
+       34,
+       61
+      ],
+      [
+       106,
+       61
+      ],
+      [
+       179,
+       61
+      ],
+      [
+       253,
+       61
+      ]
+     ]
+    }
+   }
+  },
+  "helmet": {
+   "anchor": "head",
+   "layer": "front",
+   "note": "kettle hat",
+   "files": {
+    "mid": {
+     "file": "png/helmet.mid.png",
+     "phases": 1,
+     "anchors": [
+      [
+       14,
+       15
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/helmet.far.png",
+     "phases": 1,
+     "anchors": [
+      [
+       3,
+       4
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/helmet.big.png",
+     "phases": 1,
+     "anchors": [
+      [
+       29,
+       30
+      ]
+     ]
+    }
+   }
+  },
+  "coif": {
+   "anchor": "head",
+   "layer": "front",
+   "note": "linen coif",
+   "files": {
+    "mid": {
+     "file": "png/coif.mid.png",
+     "phases": 1,
+     "anchors": [
+      [
+       10,
+       11
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/coif.far.png",
+     "phases": 1,
+     "anchors": [
+      [
+       2,
+       3
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/coif.big.png",
+     "phases": 1,
+     "anchors": [
+      [
+       19,
+       22
+      ]
+     ]
+    }
+   }
+  },
+  "kerchief_head": {
+   "anchor": "head",
+   "layer": "front",
+   "note": "tied headscarf",
+   "files": {
+    "mid": {
+     "file": "png/kerchief_head.mid.png",
+     "phases": 4,
+     "anchors": [
+      [
+       12,
+       11
+      ],
+      [
+       36,
+       11
+      ],
+      [
+       61,
+       11
+      ],
+      [
+       87,
+       11
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/kerchief_head.far.png",
+     "phases": 4,
+     "anchors": [
+      [
+       3,
+       3
+      ],
+      [
+       10,
+       3
+      ],
+      [
+       17,
+       3
+      ],
+      [
+       24,
+       3
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/kerchief_head.big.png",
+     "phases": 4,
+     "anchors": [
+      [
+       24,
+       22
+      ],
+      [
+       70,
+       22
+      ],
+      [
+       118,
+       22
+      ],
+      [
+       167,
+       22
+      ]
+     ]
+    }
+   }
+  },
+  "hood": {
+   "anchor": "head",
+   "layer": "front",
+   "note": "cowl",
+   "files": {
+    "mid": {
+     "file": "png/hood.mid.png",
+     "phases": 4,
+     "anchors": [
+      [
+       15,
+       15
+      ],
+      [
+       42,
+       15
+      ],
+      [
+       70,
+       15
+      ],
+      [
+       98,
+       15
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/hood.far.png",
+     "phases": 4,
+     "anchors": [
+      [
+       4,
+       3
+      ],
+      [
+       13,
+       3
+      ],
+      [
+       22,
+       3
+      ],
+      [
+       31,
+       3
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/hood.big.png",
+     "phases": 4,
+     "anchors": [
+      [
+       29,
+       30
+      ],
+      [
+       81,
+       30
+      ],
+      [
+       134,
+       30
+      ],
+      [
+       189,
+       30
+      ]
+     ]
+    }
+   }
+  },
+  "beak_mask": {
+   "anchor": "head",
+   "layer": "front",
+   "note": "plague doctor beak mask",
+   "files": {
+    "mid": {
+     "file": "png/beak_mask.mid.png",
+     "phases": 1,
+     "anchors": [
+      [
+       9,
+       7
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/beak_mask.far.png",
+     "phases": 1,
+     "anchors": [
+      [
+       3,
+       3
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/beak_mask.big.png",
+     "phases": 1,
+     "anchors": [
+      [
+       18,
+       14
+      ]
+     ]
+    }
+   }
+  },
+  "cloak": {
+   "anchor": "shoulder",
+   "layer": "front",
+   "note": "hooded travelling cloak",
+   "files": {
+    "mid": {
+     "file": "png/cloak.mid.png",
+     "phases": 4,
+     "anchors": [
+      [
+       18,
+       3
+      ],
+      [
+       53,
+       3
+      ],
+      [
+       91,
+       3
+      ],
+      [
+       133,
+       3
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/cloak.far.png",
+     "phases": 4,
+     "anchors": [
+      [
+       4,
+       1
+      ],
+      [
+       13,
+       1
+      ],
+      [
+       23,
+       1
+      ],
+      [
+       34,
+       1
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/cloak.big.png",
+     "phases": 4,
+     "anchors": [
+      [
+       36,
+       5
+      ],
+      [
+       103,
+       5
+      ],
+      [
+       176,
+       5
+      ],
+      [
+       257,
+       5
+      ]
+     ]
+    }
+   }
+  },
+  "coat_skirt": {
+   "anchor": "shoulder",
+   "layer": "front",
+   "note": "long skirted coat",
+   "files": {
+    "mid": {
+     "file": "png/coat_skirt.mid.png",
+     "phases": 4,
+     "anchors": [
+      [
+       13,
+       4
+      ],
+      [
+       40,
+       4
+      ],
+      [
+       69,
+       4
+      ],
+      [
+       99,
+       4
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/coat_skirt.far.png",
+     "phases": 4,
+     "anchors": [
+      [
+       3,
+       1
+      ],
+      [
+       11,
+       1
+      ],
+      [
+       20,
+       1
+      ],
+      [
+       29,
+       1
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/coat_skirt.big.png",
+     "phases": 4,
+     "anchors": [
+      [
+       26,
+       8
+      ],
+      [
+       77,
+       8
+      ],
+      [
+       132,
+       8
+      ],
+      [
+       191,
+       8
+      ]
+     ]
+    }
+   }
+  },
+  "coat_cues": {
+   "anchor": "shoulder",
+   "layer": "front",
+   "note": "collar, buttons, belt, vent for a long coat",
+   "files": {
+    "mid": {
+     "file": "png/coat_cues.mid.png",
+     "phases": 4,
+     "anchors": [
+      [
+       12,
+       4
+      ],
+      [
+       37,
+       4
+      ],
+      [
+       62,
+       4
+      ],
+      [
+       87,
+       4
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/coat_cues.far.png",
+     "phases": 4,
+     "anchors": [
+      [
+       3,
+       1
+      ],
+      [
+       11,
+       1
+      ],
+      [
+       19,
+       1
+      ],
+      [
+       27,
+       1
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/coat_cues.big.png",
+     "phases": 4,
+     "anchors": [
+      [
+       24,
+       8
+      ],
+      [
+       72,
+       8
+      ],
+      [
+       120,
+       8
+      ],
+      [
+       168,
+       8
+      ]
+     ]
+    }
+   }
+  },
+  "cape": {
+   "anchor": "shoulder",
+   "layer": "front",
+   "note": "short shoulder cape",
+   "files": {
+    "mid": {
+     "file": "png/cape.mid.png",
+     "phases": 4,
+     "anchors": [
+      [
+       14,
+       4
+      ],
+      [
+       42,
+       4
+      ],
+      [
+       70,
+       4
+      ],
+      [
+       98,
+       4
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/cape.far.png",
+     "phases": 4,
+     "anchors": [
+      [
+       3,
+       1
+      ],
+      [
+       11,
+       1
+      ],
+      [
+       20,
+       1
+      ],
+      [
+       29,
+       1
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/cape.big.png",
+     "phases": 4,
+     "anchors": [
+      [
+       27,
+       7
+      ],
+      [
+       79,
+       7
+      ],
+      [
+       131,
+       7
+      ],
+      [
+       183,
+       7
+      ]
+     ]
+    }
+   }
+  },
+  "cloak_back": {
+   "anchor": "shoulder",
+   "layer": "back",
+   "note": "cloak streaming behind",
+   "files": {
+    "mid": {
+     "file": "png/cloak_back.mid.png",
+     "phases": 4,
+     "anchors": [
+      [
+       14,
+       0
+      ],
+      [
+       32,
+       0
+      ],
+      [
+       53,
+       0
+      ],
+      [
+       77,
+       0
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/cloak_back.far.png",
+     "phases": 4,
+     "anchors": [
+      [
+       3,
+       0
+      ],
+      [
+       9,
+       0
+      ],
+      [
+       16,
+       0
+      ],
+      [
+       24,
+       0
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/cloak_back.big.png",
+     "phases": 4,
+     "anchors": [
+      [
+       27,
+       -1
+      ],
+      [
+       60,
+       -1
+      ],
+      [
+       99,
+       -1
+      ],
+      [
+       143,
+       -1
+      ]
+     ]
+    }
+   }
+  },
+  "kerchief_neck": {
+   "anchor": "shoulder",
+   "layer": "front",
+   "note": "neckerchief",
+   "files": {
+    "mid": {
+     "file": "png/kerchief_neck.mid.png",
+     "phases": 4,
+     "anchors": [
+      [
+       8,
+       10
+      ],
+      [
+       25,
+       10
+      ],
+      [
+       42,
+       10
+      ],
+      [
+       60,
+       10
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/kerchief_neck.far.png",
+     "phases": 4,
+     "anchors": [
+      [
+       3,
+       2
+      ],
+      [
+       10,
+       2
+      ],
+      [
+       17,
+       2
+      ],
+      [
+       24,
+       2
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/kerchief_neck.big.png",
+     "phases": 4,
+     "anchors": [
+      [
+       16,
+       19
+      ],
+      [
+       48,
+       19
+      ],
+      [
+       82,
+       19
+      ],
+      [
+       117,
+       19
+      ]
+     ]
+    }
+   }
+  },
+  "pack": {
+   "anchor": "shoulder",
+   "layer": "back",
+   "note": "satchel pack with bedroll",
+   "files": {
+    "mid": {
+     "file": "png/pack.mid.png",
+     "phases": 1,
+     "anchors": [
+      [
+       28,
+       5
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/pack.far.png",
+     "phases": 1,
+     "anchors": [
+      [
+       6,
+       1
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/pack.big.png",
+     "phases": 1,
+     "anchors": [
+      [
+       55,
+       11
+      ]
+     ]
+    }
+   }
+  },
+  "satchel": {
+   "anchor": "shoulder",
+   "layer": "front",
+   "note": "hip satchel",
+   "files": {
+    "mid": {
+     "file": "png/satchel.mid.png",
+     "phases": 1,
+     "anchors": [
+      [
+       8,
+       -27
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/satchel.far.png",
+     "phases": 1,
+     "anchors": [
+      [
+       2,
+       -7
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/satchel.big.png",
+     "phases": 1,
+     "anchors": [
+      [
+       16,
+       -55
+      ]
+     ]
+    }
+   }
+  },
+  "belt": {
+   "anchor": "belt",
+   "layer": "inside",
+   "note": "belt with buckle",
+   "files": {
+    "mid": {
+     "file": "png/belt.mid.png",
+     "phases": 1,
+     "anchors": [
+      [
+       11,
+       2
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/belt.far.png",
+     "phases": 1,
+     "anchors": [
+      [
+       0,
+       1
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/belt.big.png",
+     "phases": 1,
+     "anchors": [
+      [
+       22,
+       4
+      ]
+     ]
+    }
+   }
+  },
+  "staff": {
+   "anchor": "hand",
+   "layer": "front",
+   "note": "walking staff",
+   "files": {
+    "mid": {
+     "file": "png/staff.mid.png",
+     "phases": 1,
+     "anchors": [
+      [
+       7,
+       25
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/staff.far.png",
+     "phases": 1,
+     "anchors": [
+      [
+       2,
+       6
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/staff.big.png",
+     "phases": 1,
+     "anchors": [
+      [
+       14,
+       50
+      ]
+     ]
+    }
+   }
+  },
+  "cane": {
+   "anchor": "hand",
+   "layer": "front",
+   "note": "cane",
+   "files": {
+    "mid": {
+     "file": "png/cane.mid.png",
+     "phases": 1,
+     "anchors": [
+      [
+       4,
+       9
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/cane.far.png",
+     "phases": 1,
+     "anchors": [
+      [
+       2,
+       6
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/cane.big.png",
+     "phases": 1,
+     "anchors": [
+      [
+       8,
+       18
+      ]
+     ]
+    }
+   }
+  },
+  "lantern": {
+   "anchor": "hand",
+   "layer": "front",
+   "note": "swinging lantern",
+   "files": {
+    "mid": {
+     "file": "png/lantern.mid.png",
+     "phases": 4,
+     "anchors": [
+      [
+       5,
+       -2
+      ],
+      [
+       21,
+       -2
+      ],
+      [
+       37,
+       -2
+      ],
+      [
+       53,
+       -2
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/lantern.far.png",
+     "phases": 4,
+     "anchors": [
+      [
+       1,
+       0
+      ],
+      [
+       6,
+       0
+      ],
+      [
+       12,
+       0
+      ],
+      [
+       17,
+       0
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/lantern.big.png",
+     "phases": 4,
+     "anchors": [
+      [
+       9,
+       -3
+      ],
+      [
+       40,
+       -3
+      ],
+      [
+       70,
+       -3
+      ],
+      [
+       101,
+       -3
+      ]
+     ]
+    }
+   }
+  },
+  "basket": {
+   "anchor": "hand",
+   "layer": "front",
+   "note": "basket on the arm",
+   "files": {
+    "mid": {
+     "file": "png/basket.mid.png",
+     "phases": 4,
+     "anchors": [
+      [
+       8,
+       6
+      ],
+      [
+       26,
+       6
+      ],
+      [
+       44,
+       6
+      ],
+      [
+       62,
+       6
+      ]
+     ]
+    },
+    "far": {
+     "file": "png/basket.far.png",
+     "phases": 4,
+     "anchors": [
+      [
+       2,
+       0
+      ],
+      [
+       8,
+       0
+      ],
+      [
+       14,
+       0
+      ],
+      [
+       20,
+       0
+      ]
+     ]
+    },
+    "big": {
+     "file": "png/basket.big.png",
+     "phases": 4,
+     "anchors": [
+      [
+       15,
+       12
+      ],
+      [
+       50,
+       12
+      ],
+      [
+       84,
+       12
+      ],
+      [
+       119,
+       12
+      ]
+     ]
+    }
+   }
+  }
+ }
+}
