@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Manifest>
+  <ID>medieval_tavern</ID>
+  <Name>Medieval Tavern</Name>
+  <Author>KCN-judu</Author>
+  <ModVersion>WIP</ModVersion>
+  <Description>A texture pack that redraws the shop as a timber-framed medieval tavern: oak and iron, lamplight, a bar, casks. Needs Texture Packs.</Description>
+  <GameVersions>
+    <Version>0.46D</Version>
+  </GameVersions>
+  <Prerequisites>
+    <Mod>texture_packs</Mod>
+  </Prerequisites>
+  <Assemblies>
+    <Assembly>TexturePack.dll</Assembly>
+  </Assemblies>
+  <Capabilities />
+</Manifest>
